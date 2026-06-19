@@ -15,4 +15,5 @@
 Qualquer dúvida entre em contato
 <a href="mailto:eloah.lunas.silva@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![https://media.tenor.com/bRpkGCu4Xv4AAAAC/lol.gif](https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif)
+![<img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/fb2e9054-b752-4369-b2f7-d1fc559140b3" />
+](https://media.tenor.com/W7lIFrltn54AAAAi/hello-kiyty-cute.gif)
